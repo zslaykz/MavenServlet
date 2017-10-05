@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="IntelejMarvenServlet:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="IntelejMarven-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="IntelejMarvenServlet:war exploded" />
+    </root>
+  </artifact>
+</component>
